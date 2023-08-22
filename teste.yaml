@@ -1,7 +1,7 @@
 apiVersion: cubteste/teste1
 kind: Component
 metadata:
-  name: test
+  name: teste
   description: python teste
   tags:
     - python
